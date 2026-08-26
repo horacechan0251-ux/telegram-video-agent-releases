@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "channel": "stable",
+  "version": "0.0.0",
+  "published_at": null,
+  "release_notes": "Windows 首個正式版本尚未發布。",
+  "windows": {
+    "url": "",
+    "sha256": ""
+  }
+}
