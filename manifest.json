@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "channel": "stable",
-  "version": "0.0.0",
-  "published_at": null,
-  "release_notes": "Windows 首個正式版本尚未發布。",
+  "version": "0.1.0",
+  "published_at": "2026-08-26T07:28:43.1616862Z",
+  "release_notes": "首個 Windows Terminal ZIP 測試版本：一鍵安裝、安全設定、啟停、更新及回滾。",
   "windows": {
-    "url": "",
-    "sha256": ""
+    "url": "https://github.com/horacechan0251-ux/telegram-video-agent-releases/releases/download/v0.1.0/Telegram-Video-Agent-Windows-v0.1.0-terminal.zip",
+    "sha256": "50c5d8e3802b0958c340399a78be2b1ff4383815693f6ec6421c17ad61a0f98a"
   }
 }
