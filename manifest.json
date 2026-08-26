@@ -2,11 +2,16 @@
   "schema_version": 2,
   "channel": "stable",
   "version": "0.1.1",
-  "published_at": "2026-08-26T08:37:26.8704351Z",
-  "release_notes": "v0.1.1：加入平台獨立版本檢查，並準備 Mac 自動更新過渡版。",
+  "published_at": "2026-08-26T08:38:51Z",
+  "release_notes": "v0.1.1：Mac 加入一次性過渡安裝、啟動前自動更新、SHA 驗證、備份及回滾；Windows 加入平台獨立版本檢查。",
   "windows": {
     "version": "0.1.1",
     "url": "https://github.com/horacechan0251-ux/telegram-video-agent-releases/releases/download/v0.1.1/Telegram-Video-Agent-Windows-v0.1.1-terminal.zip",
     "sha256": "836b8d7884cea809ae959fe7c51b39da9fae70236eef964011ffdb79139d24f1"
+  },
+  "macos": {
+    "version": "0.1.1",
+    "url": "https://github.com/horacechan0251-ux/telegram-video-agent-releases/releases/download/v0.1.1/Telegram-Video-Agent-macOS-v0.1.1-terminal.zip",
+    "sha256": "ebe6328a5ce5f8ea8d85c02e37dcc963a1aec069d793d660fdbec56f647603e7"
   }
 }
